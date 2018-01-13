@@ -1,0 +1,14 @@
+{
+    "name": "kmligue/adminlte",
+    "description": "Package to generate adminlte layout views",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kelvin Martin Ligue",
+            "email": "liguekelvin@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
